@@ -6,9 +6,14 @@
 
 ## About Us
 
-We are an association fostering technical excellence, industry exposure, and overall student development.We organize coding competitions, hackathons, guest lectures, and workshops to enhance technical skills, along with cultural and sports activities to promote a well-rounded student experience. CSESA also plays a key role in department events, mentorship programs, and industry interactions, ensuring students stay connected with the latest advancements and career opportunities.
+We are an association fostering technical excellence, industry exposure, and overall student development. We organise coding competitions, hackathons, guest lectures, and workshops to enhance technical skills, as well as cultural and sports activities to promote a well-rounded student experience. CSESA also plays a key role in department events, mentorship programs, and industry interactions, ensuring students stay connected with the latest advancements and career opportunities.
 
 ## Head and Co-Heads
+- President: [Ankur Singh](https://github.com/Ankur556)
+- Vice-President: [Anurag Prasad](https://github.com/LegendXAnurag)
+
+## Ex-Heads and Co-Heads
+
 - President: [Aayush Yadav](https://github.com/drstrox)
 - Secretary: [Divyam Maru](https://github.com/DTG2005)
 - Marketing Head: [Cherukumalli Chanakya](https://github.com/Chanakya2456)
