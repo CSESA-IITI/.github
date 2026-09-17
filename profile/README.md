@@ -11,6 +11,7 @@ We are an association fostering technical excellence, industry exposure, and ove
 ## Head and Co-Heads
 - President: [Ankur Singh](https://github.com/Ankur556)
 - Vice-President: [Anurag Prasad](https://github.com/LegendXAnurag)
+- Events Lead: [Saransh Halwai](https://github.com/saranshhalwai)
 
 ## Ex-Heads and Co-Heads
 
